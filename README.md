@@ -3,7 +3,7 @@
 ---
 ### About me 💁‍♂️
 
-- 🏫 Currently pursuing B.Tech in Electronics and Communication Engineering from [BITM], India.
+- 🏫 Currently pursuing B.Tech in Electronics and Communication Engineering from [BIT Mesra], India.
 - 🧠 With an ever-curious mind, I always strive to start each new day with a desire toward learning something new that will not only expand my skill set but also continually add value to the lives of those around me.
 - 🚀 Fields that interest me most include Artificial Intelligence, Data Science, Machine Learning, Robotics and Information Technology.
 - 📖 Currently learning Computer Vision and Telegu language.
@@ -29,7 +29,7 @@
 
 
 
-[BITM]: https://www.bitmesra.ac.in/
+[BIT Mesra]: https://www.bitmesra.ac.in/
 [linkedin]: https://www.linkedin.com/in/subham-surana/
 [instagram]: https://www.instagram.com/boss__is__always__right/
 [facebook]: https://www.facebook.com/subham.jain.142035/
