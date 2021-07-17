@@ -1,4 +1,4 @@
-## Hi there, I'm Subham - aka 🌟Neklaustar🌟
+## Hi there, I'm Subham - aka 🌟Neklaustares🌟
 
 ---
 ### About me 💁‍♂️
