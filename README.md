@@ -1,4 +1,4 @@
-## Hi there, I'm Subham - aka Neostar 🌟
+## Hi there, I'm Subham - aka Neklaustar 🌟
 
 ---
 ### About me 💁‍♂️
