@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.svg" />][linkedin]
-[<img align="left" alt="Subham | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]
+[<img align="left" alt="Subham | Kaggle" width="70px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]
 [<img align="left" alt="Subham | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.svg/" />][discord]
 [<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />][facebook]
 [<img align="left" alt="Subham | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.svg" />][instagram]
