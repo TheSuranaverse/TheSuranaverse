@@ -13,6 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.svg" />][linkedin]
+[<img align="left" alt="Subham | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]
 [<img align="left" alt="Subham | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.svg/" />][discord]
 [<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />][facebook]
 [<img align="left" alt="Subham | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.svg" />][instagram]
@@ -34,6 +35,7 @@
 
 [BIT Mesra]: https://www.bitmesra.ac.in/
 [linkedin]: https://www.linkedin.com/in/subham-surana/
+[kaggle]: https://www.kaggle.com/subhamjain
 [discord]: https://discord.gg/ceMXzhfaka
 [instagram]: https://www.instagram.com/boss__is__always__right/
 [facebook]: https://www.facebook.com/subham.jain.142035/
