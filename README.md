@@ -5,8 +5,8 @@
 
 - 🏫 Currently pursuing **B.Tech** in **Electronics and Communication Engineering** from **[BIT Mesra], India.**
 - 🧠 With an ever-curious mind, I always strive to start each new day with a desire toward **_learning something new_** that will not only expand **_my skill set_** but also continually **_add value to the lives_** of those around me.
-- 🚀 Fields that interest me most include **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, Robotics and Information Technology.**
-- 📖 Currently building a community for **Data Science & AI Enthusiasts"** while learning **Computer Vision** and **Telegu** language simultaneously.
+- 🚀 Fields that interest me most include **Machine Learning, Deep Learning, NLP, Data Science, and Information Technology.**
+- 📖 Currently building a community for **Data Science & ML/AI Enthusiasts"** while learning **Computer Vision** and **Bengali language** simultaneously.
 - 👨‍💻 Working on my **Problem Solving** skill and some **mini-projects** simultaneously.
 - 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Sports, Video Games, Yoga, Listening to Music.**
 
