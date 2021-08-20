@@ -10,6 +10,7 @@
 - 👨‍💻 Working on my **Problem Solving** skill and some **mini-projects** simultaneously.
 - 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Sports, Video Games, Yoga, Listening to Music.**
 
+
 ### Connect with me:
 
 [<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.svg" />][linkedin]
@@ -21,6 +22,7 @@
 
 <br />
 
+
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
@@ -29,6 +31,15 @@
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 [<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][TensorFlow]
 [<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
+
+</p>
+<br />
+<br />
+
+<p align="left">
+  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Neklaustares-tPtwP&show_icons=true&theme=gruvbox">
+  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neklaustares-tPtwP&hide=html,scss,css,shell,javascript,ruby&langs_count=10&layout=compact&theme=gruvbox">
+</p>
 
 
 [BIT Mesra]: https://www.bitmesra.ac.in/
