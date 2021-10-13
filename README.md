@@ -15,13 +15,13 @@
 
 ## 🔗 Connect with Me
   
-- [<img align="left" alt="Subham | Mail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][mail]
-[<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.svg" />][linkedin]
-[<img align="left" alt="Subham | Kaggle" height="30px" width="20px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
-[<img align="left" alt="Subham | HackerRank" width="30px" src="https://img.icons8.com/windows/32/26e07f/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Subham | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.svg/" />][discord]
-[<img align="left" alt="Subham | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />][facebook]
-
+[<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
+[<img align="left" alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />][linkedin]
+[<img align="left" alt="Subham | Kaggle" width="88px" src="https://img.shields.io/badge/-Kaggle-000000?logo=kaggle&Color=0A66C2&style=flat-square" />][kaggle]
+[<img align="left" alt="Subham | HackerRank" width="127px" src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&Color=0A66C2&style=flat-square" />][hackerrank]
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />][discord]
+<!-- https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg -->
+<br>
 <hr>
 
 ## 📜 Languages I know 
