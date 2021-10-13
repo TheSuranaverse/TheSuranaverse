@@ -1,5 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subham](https://github.com/Neklaustares-tPtwP)!
 
+<hr>
+
 ## 💁‍♂️ About me
 
 - 🏫 Pursuing **B.Tech** in **Electronics and Communication Engineering (Major)** and **Computer Science (Minor)** from **[BIT Mesra]**.
@@ -9,6 +11,7 @@
 - 🏓 Outside of **Github**, catch me for a quick best of 5 in **Table Tennis**.
 - 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Sports.**
 
+<hr>
 
 ## 🔗 Connect with Me
   
@@ -19,6 +22,8 @@
 [<img align="left" alt="Subham | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.svg/" />][discord]
 [<img align="left" alt="Subham | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />][facebook]
 
+<hr>
+
 ## 📜 Languages I know 
 
 <img align="left" width="95px" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" />
@@ -27,6 +32,7 @@
 <img align="left" width="70px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&Color=white&style=plastic" />
 <img align="center" width="105px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
 
+<hr>
 
 ## 📖 Frameworks I study
 
@@ -34,6 +40,7 @@
 <img align="left" width="110px" src="https://img.shields.io/badge/-PyTorch-000000?logo=pytorch&Color=white&style=plastic" />
 
 <br>
+<hr>
 
 ## 🧰 Tools I use 
 
@@ -46,6 +53,7 @@
 <img align="left" width="110px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
 
 <br>
+<hr>
 
 ## ML libraries I :heart:
 
@@ -58,20 +66,19 @@
 <img align="left" width="110px" src="https://img.shields.io/badge/-OpenCV-1572B6?logo=opencv&Color=white&style=plastic" />
 
 <br>
-<br>
+<hr>
 
-<p align="left">
-  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Neklaustares-tPtwP&show_icons=true&theme=gruvbox">
-  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neklaustares-tPtwP&hide=html,scss,css,shell,javascript,ruby&langs_count=10&layout=compact&theme=gruvbox">
+## 🏆 Github Profile Trophy
+<p>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Neklaustares-tPtwP&column=9&theme=gruvbox&no-frame=true" />
 </p>
 
-<h3>🏆 Github Profile Trophy</h3>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Neklaustares-tPtwP&column=9&theme=gruvbox&no-frame=true"/>
+<hr>  
     
-<h3>📛 Badges</h3>
+## 📛 Badges
 <a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
 <a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
-
+    
 
 [mail]: mailto:yashsura786@gmail.com     
 [BIT Mesra]: https://www.bitmesra.ac.in/
@@ -104,4 +111,12 @@
 </p>
 <br />
 <br />
+
+<br>
+
+<p align="left">
+  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Neklaustares-tPtwP&show_icons=true&theme=gruvbox">
+  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neklaustares-tPtwP&hide=html,scss,css,shell,javascript,ruby&langs_count=10&layout=compact&theme=gruvbox">
+</p>
+
 -->
