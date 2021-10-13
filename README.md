@@ -42,7 +42,7 @@
 <img align="left" width="100px" src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&Color=white&style=plastic" />
 <img align="left" width="130px" src="https://img.shields.io/badge/-Spyder%20IDE-FF0000?logo=spyder-ide&Color=white&style=plastic" />
 <img align="left" width="160px" src="https://img.shields.io/badge/-Google%20Colab-000000?logo=google-colab&Color=white&style=plastic" />
-<img align="left" width="110px" src="https://img.shields.io/badge/-Tableau-000000?logo=tableau&Color=white&style=plastic" /><br>
+<img align="left" width="110px" src="https://img.shields.io/badge/-Tableau-000000?logo=tableau&Color=white&style=plastic" /><br><br />
 <img align="left" width="110px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
 
 <br>
