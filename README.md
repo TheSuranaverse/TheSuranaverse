@@ -1,6 +1,6 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subham](https://github.com/Neklaustares-tPtwP)!
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subham](https://github.com/Neklaustares-tPtwP)!
 
-### 💁‍♂️ About me
+## 💁‍♂️ About me
 
 - 🏫 Pursuing **B.Tech** in **Electronics and Communication Engineering (Major)** and **Computer Science (Minor)** from **[BIT Mesra]**.
 - 🧠 I'm a **quick learner**, a **team player**, a **good listener**, and love **helping others**.
@@ -10,7 +10,7 @@
 - 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Sports.**
 
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
   
 - [<img align="left" alt="Subham | Mail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][mail]
 [<img align="left" alt="Subham | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.svg" />][linkedin]
@@ -19,7 +19,7 @@
 [<img align="left" alt="Subham | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.svg/" />][discord]
 [<img align="left" alt="Subham | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />][facebook]
 
-### 📜 Languages I know 
+## 📜 Languages I know 
 
 <img align="left" width="95px" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" />
 <img align="left" width="75px" src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&Color=white&style=plastic" />
@@ -28,14 +28,14 @@
 <img align="center" width="105px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
 
 
-### 📖 Frameworks I study
+## 📖 Frameworks I study
 
-<img align="left" width="150px" src="https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow&Color=white&style=plastic" />
-<img align="left" width="115px" src="https://img.shields.io/badge/-PyTorch-000000?logo=pytorch&Color=white&style=plastic" />
+<img align="left" width="145px" src="https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow&Color=white&style=plastic" />
+<img align="left" width="110px" src="https://img.shields.io/badge/-PyTorch-000000?logo=pytorch&Color=white&style=plastic" />
 
 <br>
 
-### 🧰 Tools I use 
+## 🧰 Tools I use 
 
 <img align="left" width="100px" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&Color=white&style=plastic" />
 <img align="left" width="110px" src="https://img.shields.io/badge/-Anaconda-006643?logo=anaconda&Color=white&style=plastic" />
@@ -47,7 +47,7 @@
 
 <br>
 
-### ML libraries I :heart:
+## ML libraries I :heart:
 
 <img align="left" width="100px" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&Color=white&style=plastic" />
 <img align="left" width="100px" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&Color=white&style=plastic" />
