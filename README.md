@@ -23,11 +23,11 @@
 
 ### Languages I know
 
-<img align="left" width="150px" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" />
-<img align="left" width="90px" src="https://img.shields.io/badge/-c%2B%2B-00599C?logo=c%2B%2B&Color=white&style=plastic" />
+<img align="left" width="120px" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" />
+<img align="left" width="95px" src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&Color=white&style=plastic" />
 <img align="left" width="120px" src="https://img.shields.io/badge/-HTML5-13324B?logo=html5&Color=white&style=plastic" />
 <img align="left" width="90px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&Color=white&style=plastic" />
-<img align="center" width="120px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
+<img align="center" width="130px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
 
 ### Frameworks I study
 
@@ -39,12 +39,12 @@
 ### Tools I use
 
 <img align="left" width="100px" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&Color=white&style=plastic" />
-<img align="left" width="100px" src="https://img.shields.io/badge/-Anaconda-006643?logo=anaconda&Color=white&style=plastic" />
+<img align="left" width="110px" src="https://img.shields.io/badge/-Anaconda-006643?logo=anaconda&Color=white&style=plastic" />
 <img align="left" width="100px" src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&Color=white&style=plastic" />
-<img align="left" width="120px" src="https://img.shields.io/badge/-Spyder%20IDE-FF0000?logo=spyder-ide&Color=white&style=plastic" />
-<img align="left" width="150px" src="https://img.shields.io/badge/-Google%20Colab-000000?logo=google-colab&Color=white&style=plastic" />
+<img align="left" width="130px" src="https://img.shields.io/badge/-Spyder%20IDE-FF0000?logo=spyder-ide&Color=white&style=plastic" />
+<img align="left" width="160px" src="https://img.shields.io/badge/-Google%20Colab-000000?logo=google-colab&Color=white&style=plastic" />
 <img align="left" width="110px" src="https://img.shields.io/badge/-Tableau-000000?logo=tableau&Color=white&style=plastic" />
-<img align="center" width="120px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
+<img align="center" width="110px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
 
 
 ### ML libraries I :heart:
