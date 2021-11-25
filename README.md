@@ -78,6 +78,10 @@
 ## 📛 Badges
 <a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
 <a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
+<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/competition' border='0' alt='Subham_Surana_Kaggle_Competittion_Badge'/></a>
+<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/dataset' border='0' alt='Subham_Surana_Kaggle_Dataset_Badge'/></a>
+<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/notebook' border='0' alt='Subham_Surana_Kaggle_Notebook_Badge'/></a>
+<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/discussion' border='0' alt='Subham_Surana_Kaggle_Discussion_Badge'/></a>
     
 
 [mail]: mailto:yashsura786@gmail.com     
