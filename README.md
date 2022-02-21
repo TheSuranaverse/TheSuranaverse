@@ -89,7 +89,7 @@
 [linkedin]: https://www.linkedin.com/in/subham-surana/
 [kaggle]: https://www.kaggle.com/subhamjain
 [hackerrank]: https://www.hackerrank.com/Neo_theCondor
-[discord]: https://discord.gg/ceMXzhfaka
+[discord]: https://discord.gg/GqzWmqDKzU
 [facebook]: https://www.facebook.com/subham.jain.142035/
 [Python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 [C++]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
