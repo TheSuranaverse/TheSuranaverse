@@ -70,7 +70,7 @@
 
 ## 🏆 Github Profile Trophy
 <p>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Neklaustares-tPtwP&column=9&theme=gruvbox&no-frame=true" />
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=TheSuranaverse&column=9&theme=gruvbox&no-frame=true" />
 </p>
 
 <hr>  
