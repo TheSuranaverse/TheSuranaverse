@@ -1,15 +1,15 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subham](https://github.com/Neklaustares-tPtwP)!
+# Hi there👋, I'm [Subham](https://github.com/Neklaustares-tPtwP)!
 
 <hr>
 
 ## 💁‍♂️ About me
 
-- 🏫 Pursuing **B.Tech** in **Electronics and Communication Engineering (Major)** and **Computer Science (Minor)** from **[BIT Mesra]**.
-- 🧠 I'm a **quick learner**, a **team player**, a **good listener**, and love **helping others**.
-- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and Robotics**.
+- 🏫 **B.Tech** in **ECE (Major)** and **CSE (Minor)** from **[BIT Mesra]**.
+- 🧠 I'm a **quick learner**, a **team player**, and love **helping others**.
+- 🚀 Fields that interest me most include **Data Science, ML, Web3, and Robotics**.
 - 👥 Building a community for **Developers** currently connecting **25k+** tech enthusiasts across the world.
 - 🏓 Outside of **Github**, catch me for a quick best of 5 in **Table Tennis**.
-- 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Sports.**
+- 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Music**.
 
 <hr>
 
@@ -80,11 +80,12 @@
 <a href="https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url" target='_blank'><img width="75px" src='https://i.postimg.cc/Gm016ZRZ/intel-student-ambassador-program-iot-ambassador-level-1.png' border='0' alt='SUBHAM-SURANA-IOT-AMBASSADOR-LEVEL-1'/></a>
 <a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
 <a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
+ <!--
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/competition' border='0' alt='Subham_Surana_Kaggle_Competittion_Badge'/></a>
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/dataset' border='0' alt='Subham_Surana_Kaggle_Dataset_Badge'/></a>
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/notebook' border='0' alt='Subham_Surana_Kaggle_Notebook_Badge'/></a>
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/discussion' border='0' alt='Subham_Surana_Kaggle_Discussion_Badge'/></a>
-    
+-->
 
 [mail]: mailto:yashsura786@gmail.com     
 [BIT Mesra]: https://www.bitmesra.ac.in/
