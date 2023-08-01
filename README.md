@@ -6,7 +6,7 @@
 
 - 🏫 **B.Tech** in **ECE (Major)** and **CSE (Minor)** from **[BIT Mesra]**.
 - 🧠 I'm a **quick learner**, a **team player**, and love **helping others**.
-- 🚀 Fields that interest me most include **Data Science, ML, Web3, and Robotics**.
+- 🚀 Fields that interest me most include **Machine Learning, Web3, and Application Development.**.
 - 👥 Building a community for **Developers** currently connecting **25k+** tech enthusiasts across the world.
 - 🏓 Outside of **Github**, catch me for a quick best of 5 in **Table Tennis**.
 - 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Music**.
