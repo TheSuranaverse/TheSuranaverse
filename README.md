@@ -80,6 +80,10 @@
 <a href="https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url" target='_blank'><img width="75px" src='https://i.postimg.cc/Gm016ZRZ/intel-student-ambassador-program-iot-ambassador-level-1.png' border='0' alt='SUBHAM-SURANA-IOT-AMBASSADOR-LEVEL-1'/></a>
 <a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
 <a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="subham-surana" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subham-surana?trk=profile-badge">Subham Surana</a>
+</div>
+              
  <!--
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/competition' border='0' alt='Subham_Surana_Kaggle_Competittion_Badge'/></a>
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/dataset' border='0' alt='Subham_Surana_Kaggle_Dataset_Badge'/></a>
