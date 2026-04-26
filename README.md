@@ -1,4 +1,4 @@
-# Hi there👋, I'm [Subham](https://github.com/Neklaustares-tPtwP)!
+# Hi there👋, I'm [Subham](https://github.com/TheSuranaverse)!
 
 <hr>
 
@@ -88,13 +88,13 @@
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/discussion' border='0' alt='Subham_Surana_Kaggle_Discussion_Badge'/></a>
 -->
 
-[mail]: mailto:yashsura786@gmail.com     
+[mail]: mailto:thesuranaverse@gmail.com     
 [BIT Mesra]: https://www.bitmesra.ac.in/
 [linkedin]: https://www.linkedin.com/in/subham-surana/
 [kaggle]: https://www.kaggle.com/subhamjain
 [hackerrank]: https://www.hackerrank.com/Neo_theCondor
 [discord]: https://discordapp.com/users/577254428046786561
-[facebook]: https://www.facebook.com/subham.jain.142035/
+[facebook]: https://www.facebook.com/thesuranaverse/
 [Python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 [C++]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
 [SQL]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
