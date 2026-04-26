@@ -80,6 +80,11 @@
 <a href="https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url" target='_blank'><img width="75px" src='https://i.postimg.cc/Gm016ZRZ/intel-student-ambassador-program-iot-ambassador-level-1.png' border='0' alt='SUBHAM-SURANA-IOT-AMBASSADOR-LEVEL-1'/></a>
 <a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
 <a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E763AF51A6088A54F03F2274D11B0958CB157D4DA13612311D45C1E7FD322FB9"><img width="190px" src="https://iili.io/BPHa95P.jpg" alt="BPHa95P.jpg" border="0"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AEF8D70B1E096F4EB0C7EA4EC5F7318D4D65E7620C3F63D6D541F86214DAC0AF"><img width="190px" src="https://iili.io/BPHAytj.jpg" alt="BPHAytj.jpg" border="0"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F6801A136AB5A38D1E1262DE106D28B0402CF2773F945924B87D8D57B6734E9"><img width="190px" src="https://iili.io/BPHaMhu.jpg" alt="BPHaMhu.jpg" border="0"></a>
+
+
 
  <!--
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/competition' border='0' alt='Subham_Surana_Kaggle_Competittion_Badge'/></a>
