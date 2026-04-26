@@ -70,7 +70,7 @@
 
 ## 🏆 Github Profile Trophy
 <p>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=TheSuranaverse&column=9&theme=gruvbox&no-frame=true" />
+<img width=800 src="https://github-profile-trophy-orcin-eta.vercel.app/?username=TheSuranaverse&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </p>
 
 <hr>  
