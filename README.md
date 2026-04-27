@@ -4,12 +4,12 @@
 
 ## 💁‍♂️ About me
 
-- 🏫 **B.Tech** in **ECE (Major)** and **CSE (Minor)** from **[BIT Mesra]**.
-- 🧠 I'm a **quick learner**, a **team player**, and love **helping others**.
-- 🚀 Fields that interest me most include **Machine Learning, Web3, and Application Development.**.
-- 👥 Building a community for **Developers** currently connecting **25k+** tech enthusiasts across the world.
-- 🏓 Outside of **Github**, catch me for a quick best of 5 in **Table Tennis**.
-- 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Music**.
+- 💼 **Tech Consultant** at one of the "Big Four" professional services networks, **[PwC India]**.
+- 🏫 **B.Tech** in **ECE (Major)** and **CSE (Minor)** from a premier technical institute, **[BIT Mesra]**.
+- 🚀 Fields that interest me most include **Application Development, Artificial Intelligence and Blockchain**.
+- 👥 **Community Founder** of one of India's largest tech community - **25k+ developers** connected across the world.
+- 🏓 Outside of **Github**, catch me for a quick best of 5 in **Table Tennis** or a game of **Cards**.
+- 🤓 My hobbies are **Teaching/Mentoring, playing Video Games, Travelling to Cultural and Historical Places,** and **Listening to Music**.
 
 <hr>
 
@@ -93,7 +93,8 @@
 <a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/discussion' border='0' alt='Subham_Surana_Kaggle_Discussion_Badge'/></a>
 -->
 
-[mail]: mailto:thesuranaverse@gmail.com     
+[mail]: mailto:thesuranaverse@gmail.com
+[PwC India]: https://www.pwc.in/
 [BIT Mesra]: https://www.bitmesra.ac.in/
 [linkedin]: https://www.linkedin.com/in/subham-surana/
 [kaggle]: https://www.kaggle.com/subhamjain
